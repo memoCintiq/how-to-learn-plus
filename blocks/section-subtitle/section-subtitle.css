@@ -1,0 +1,11 @@
+.section-subtitle {
+  display: flex;
+  font-family: 'Inter', 'Arial', sans-serif;
+  font-size: 24px;
+  font-weight: normal;
+  justify-content: center;
+  line-height: 34px;
+  margin: 0 auto;
+  padding-top: 20px;
+  width: 60%;
+}
