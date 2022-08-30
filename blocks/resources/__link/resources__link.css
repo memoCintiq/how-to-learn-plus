@@ -1,6 +1,9 @@
 .resources__link {
   display: flex;
-  height: 38px;
   justify-content: center;
-  width: 270px;
+  transition: opacity .4s ease;
+}
+
+.resources__link:hover {
+  opacity: .6;
 }

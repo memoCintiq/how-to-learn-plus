@@ -1,10 +1,9 @@
 .header__title {
-  align-items: center;
-  display: flex;
   font-family: 'Inter', 'Arial', sans-serif;
   font-size: 102px;
   font-weight: 600;
   line-height: 96px;
+  margin: 0;
   margin-left: 64px;
   width: 730px;
   z-index: 2;
