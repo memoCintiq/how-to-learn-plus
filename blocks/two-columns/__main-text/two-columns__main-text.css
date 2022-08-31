@@ -1,11 +1,7 @@
 .two-columns__main-text {
   display: flex;
   flex-direction: column;
-  font-family: 'Inter', 'Arial', sans-serif;
-  font-size: 24px;
-  font-weight: normal;
   justify-content: space-between;
-  line-height: 34px;
   margin: 0;
   min-width: 784px;
   row-gap: 30px;

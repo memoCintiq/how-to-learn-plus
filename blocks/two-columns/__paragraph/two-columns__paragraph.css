@@ -1,3 +1,7 @@
 .two-columns__paragraph {
+  font-family: 'Inter', 'Arial', sans-serif;
+  font-size: 24px;
+  font-weight: normal;
+  line-height: 34px;
   margin: 0;
 }
