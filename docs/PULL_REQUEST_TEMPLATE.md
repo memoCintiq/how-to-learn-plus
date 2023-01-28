@@ -6,5 +6,6 @@
 > Labels -> установите нужный в соответствии с [Semantic Messages](https://gist.github.com/joshbuchea/6f47e86d2510bce28f8e7f42ae84c716) и значениями по умолчанию
 #### Oписание
 Ясное и чёткое описание проделанной работы.
-
-Resolves #(Issue), resolves #(Issue)
+#### Issues
+- Resolves #(Issue)
+- Resolves #(Issue)
