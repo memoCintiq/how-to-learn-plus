@@ -1,3 +1,3 @@
 # Научиться учиться
 Одностраничный сайт, написанный на чистых HTML и CSS с использованием методологии БЭМ.
-## [Contribute](docs/contribute.md)
+## [Contribute](contribute.md)
